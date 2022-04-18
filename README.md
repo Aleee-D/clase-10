@@ -1,3 +1,7 @@
+
+CSS
+tailwindcss -> se instala en NodeJS
+
 # Clase 10 
 
 Crear componentes de React como los que hicimos en la clase 4
